@@ -1,2 +1,2 @@
 # Light-Pollution-Analyzer
-A geospatial machine learning system that analyzes India’s light pollution trends (2013–2021) using VIIRS-DNB &amp; MODIS satellite datasets, with forecasting, clustering, anomaly detection, and an interactive Streamlit dashboard.
+A research-driven geospatial machine learning project analyzing India’s light pollution trends from 2013–2021 using NOAA VIIRS-DNB, MODIS Land Cover, and Google Earth Engine. Includes ML-based forecasting, regional clustering, anomaly detection, and an interactive Streamlit dashboard for visualization.
